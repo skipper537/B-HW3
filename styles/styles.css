@@ -1,0 +1,490 @@
+body {
+    width: 100%;
+}
+.project {
+    width: 1488px;
+    height: 1430px;
+    background: #E5E5E5;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+.Element1 {
+  width: 1440px;
+  height: 76px;
+  background: #0B2230;
+  margin: 228px 0 0 24px;
+  display: flex;
+}
+
+.Element2 {
+    width: 1440px;
+    height: 52px;
+    background: #2B2627;
+    margin: 24px 0 0 24px;
+    display: flex;
+}
+
+.Element3 {
+    width: 560px;
+    height: 72px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    margin: 72px 0 0 24px;
+    display: flex;
+}
+
+.Element4 {
+    width: 560px;
+    height: 64px;
+    background: #26262B;
+    border-radius: 10px;
+    margin: 24px 0 0 24px;
+    display: flex;
+}
+.inline {
+    display: inline-block;
+}
+.Element5 {
+    width: 360px;
+    height: 206px;
+    background: rgba(28, 37, 64, 0.95);
+    border-radius: 6px;
+    margin: 72px 0 0 24px;
+}
+
+.Element6 {
+    width: 360px;
+    height: 170px;
+    background: #FFFFFF;
+    border-radius: 16px;
+    margin: 72px 0 0 40px;
+}
+
+.Element7 {
+    width: 320px;
+    height: 260px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(186, 226, 255, 0.15) 23.96%, rgba(229, 217, 255, 0.15) 71.87%, rgba(255, 255, 255, 0.15) 100%), #FFFFFF;
+    border-radius: 20px;
+    margin: 72px 0 0 24px;
+}
+
+.Element8 {
+    width: 320px;
+    height: 137px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    margin: 72px 0 0 40px;
+}
+
+.inline {
+    display: flex;
+}
+
+.Button1 {
+    width: 130px;
+    height: 36px;
+    background: #4AD295;
+    border-radius: 2px;
+    margin: 18px 0 0 20px;
+
+}
+
+.Text11 {
+    width: 922px;
+    height: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 16px 0 0 120px;
+    
+}
+
+.Text12 {
+    width: 86px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #4AD295;
+    margin: 26px 0 0 42px;
+}
+
+.Text12 a {
+    color: #4AD295;
+}
+
+.Text13{
+    width: 110px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 8px 0 0 10px;
+
+}
+
+.Text21 {
+    width: 16px;
+    height: 16px;
+    margin: 18px 0 0 345.5px;
+}
+
+.Text22 {
+    width: 689px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 16px 0 0 8px;
+}
+
+.Text22 a {
+    color: #FFFFFF;
+}
+
+.Text23 {
+    width: 16px;
+    height: 16px;
+    margin: 18px 0 0 20px;
+}
+
+.Vector {
+    width: 20px;
+    height: 20px;
+    margin: 8px 0 0 8px;
+}
+
+.Text31 {
+    width: 36px;
+    height: 36px;
+    background: rgba(234, 76, 137, 0.1);
+    border-radius: 10px;
+    margin: 18px 0 0 16px;
+}
+
+.Text32 {
+    width: 347px;
+    height: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #0D0C22;
+    margin: 16px 0 0 10px;
+}
+
+.Text32 a {
+    color: #EA4C89;
+}
+
+.Text33 {
+    width: 63px;
+    height: 28px;
+    background: rgba(13, 12, 34, 0.05);
+    border-radius: 8px;
+    margin: 22px 0 0 10px;
+}
+
+.Text33 p {
+    width: 43px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: #0D0C22;
+    margin: 4px 0 0 10px;
+}
+
+.Text34 {
+    width: 52px;
+    height: 28px;
+    background: #EA4C89;
+    border-radius: 8px;
+    margin: 22px 0 0 10px;
+}
+
+.Text34 p {
+    width: 32px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 4px 0 0 10px;
+}
+
+.Text41{
+    width: 469px;
+    height: 40px;
+    font-family: 'Avenir LT Std';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 12px 0 0 16px;
+}
+
+.Text41 a {
+    color: #E6842E;
+}
+
+.Text42 {
+    width: 49px;
+    height: 28px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    margin: 18px 0 0 10px;
+}
+
+.Text42 p {
+    width: 29px;
+    height: 20px;
+    font-family: 'Avenir LT Std';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #26262B;
+    margin: 4px 0 0 10px;
+}
+
+.Text51 {
+    width: 121px;
+    height: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 24px 0 0 24px;
+}
+
+.Text52 {
+    width: 312px;
+    height: 80px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 10px 0 0 24px;
+}
+
+.Text53 {
+    width: 160px;
+    height: 16px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 24px 0 0 24px;
+}
+
+.Text54 {
+    width: 85px;
+    height: 32px;
+    background: #09B3AF;
+    box-shadow: 0px 2px 2px -2px rgba(34, 38, 50, 0.3);
+    border-radius: 6px;
+    margin: 16px 0 0 67px;
+}
+
+.Text54 p {
+    width: 45px;
+    height: 16px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 8px 0 0 20px;
+}
+
+.Text61 {
+    width: 132px;
+    height: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #0F181D;
+    margin: 16px 0 0 16px;
+}
+.Text62 {
+    width: 328px;
+    height: 60px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #687F8C;
+    margin: 10px 0 0 16px;
+}
+
+.Text63 {
+    width: 160px;
+    height: 32px;
+    background: #EAF0F4;
+    box-shadow: 0px 2px 2px -2px rgba(34, 38, 50, 0.3);
+    border-radius: 6px;
+    margin: 16px 0 0 16px;
+}
+
+.Text63 p {
+    width: 144px;
+    height: 16px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #687F8C;
+    margin: 8px 0 0 8px;
+}
+
+.Text64 {
+    width: 160px;
+    height: 32px;
+    background: #40C1A7;
+    box-shadow: 0px 2px 2px -2px rgba(34, 38, 50, 0.3);
+    border-radius: 6px;
+    margin: 16px 0 0 8px;
+}
+
+.Text64 p {
+    width: 144px;
+    height: 16px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 8px 0 0 8px;
+}
+
+.Text71 {
+    width: 104px;
+    height: 48px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 48px;
+    text-align: center;
+    color: #15295A;
+    margin: 32px 0 0 108px;
+}
+
+.Text72 {
+    width: 256px;
+    height: 72px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #15295A;
+    margin: 0 0 0 32px;
+
+}
+
+.Text73 {
+    width: 121px;
+    height: 44px;
+    background: #4A7EFF;
+    border-radius: 43px;
+    margin: 32px 0 0 99.5px;
+    display: flex;
+    
+}
+
+.Text73 p {
+    width: 57px;
+    height: 24px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin: 10px 0 0 32px;
+
+}
+
+.Text81 {
+    width: 288px;
+    height: 60px;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin: 16px 0 0 16px;
+}
+
+.Text82 {
+    width: 95px;
+    height: 17px;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #6666FF;
+    margin: 20px 0 0 16px;
+}
+
+.Text83 {
+    width: 64px;
+    height: 33px;
+    background: #6666FF;
+    border-radius: 4px;
+    margin: 12px 0 0 129px;
+}
+
+.Text83 p {
+    width: 48px;
+    height: 17px;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 8px 0 0 8px;
+}
